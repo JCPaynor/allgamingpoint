@@ -10,6 +10,15 @@ table{
   justify-content: center;
 
 }
+.LogOut{
+  background-color:#f2222c;
+  color: white;
+  padding: 5px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1500;
+
 }
 .tittleBG {
   position: relative;
