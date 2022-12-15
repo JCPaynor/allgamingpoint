@@ -11,8 +11,8 @@ table{
 
 }
 .log{
-  margin-left: 660px;
-	margin-top: 20px;
+  float:right;
+margin-top: 20px;
   background-color:#f2222c;
   color: white;
   padding: 5px;
